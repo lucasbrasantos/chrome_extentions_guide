@@ -1,6 +1,6 @@
 // script example on page load
 
-function load() {
+function load() { // funcao ao carregar pagina
 	alert('example');
 }
 

@@ -1,6 +1,6 @@
 {
 
-	"manifest_version":	3,
+  "manifest_version":	3,
 
   "name": "extention name example",
   "description": "extention description example",
@@ -10,10 +10,10 @@
 
   "content_scripts": [
     {
-   		"matches" : ["<all_urls>"],
-      "css": ["style.css"],
-   		"js": ["script.js"]
+      "matches" : ["<all_urls>"],
+      "css": ["style.css"], //declara o css
+      "js": ["script.js"] // declara o javascript
     }
-	]
+  ]
 
 }
