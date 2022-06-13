@@ -23,7 +23,7 @@ nesse arquivo sera armazenado os dados da extenção, como nome, vercao, descric
 
 ### 2:
 
-agora adicione o ´´´content_script´´´ nesse manifesto
+agora adicione o ```content_script``` nesse manifesto
 
 <pre><code>
 "content_scripts": [
@@ -61,7 +61,7 @@ ela ficara mais ou menos assim
 </pre></code>
 ### 3:
 
-agora no css voce pode mudar o estilo para qualquer um, que ira mudar na pagina que voce escolheu em ´´´"matches"´´´
+agora no css voce pode mudar o estilo para qualquer um, que ira mudar na pagina que voce escolheu em ```"matches"```
 a mesma coisa com o javascript
 
 ### 4:
